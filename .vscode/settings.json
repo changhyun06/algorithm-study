@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.yaml": "yaml",
-    "iostream": "cpp",
-    "random": "cpp",
-    "queue": "cpp"
-  }
-}
